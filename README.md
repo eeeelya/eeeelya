@@ -3,7 +3,6 @@
 ### 👨🏻‍💻 About me
 
 Python Developer and Machine Learning engineer. </br>
-I'm currently looking for a new role as a Python Software engineer :star2:
 
 
 ### 🛠 Tech Stack
