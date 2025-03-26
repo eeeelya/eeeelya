@@ -9,6 +9,7 @@ Python Software engineer with solid experience in building web services. </br>
 
 #### Languages
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
   
 #### Libraries and Frameworks
  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
@@ -29,10 +30,14 @@ Python Software engineer with solid experience in building web services. </br>
   ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka)
   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
+  ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=flat&logo=amazons3&logoColor=white)
 
 #### Services
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
 #### Tools
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
