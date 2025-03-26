@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About me
 
-Python Developer and Machine Learning engineer. </br>
+Python Software engineer with solid experience in building web services. </br>
 
 
 ### 🛠 Tech Stack
@@ -11,25 +11,30 @@ Python Developer and Machine Learning engineer. </br>
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   
 #### Libraries and Frameworks
+ ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=white)
+ ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask&logoColor=white)
- ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy&logoColor=white)
- ![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
- ![Scikit-Learn](https://img.shields.io/badge/-sklearn-333333?style=flat&logo=scikitlearn)
- ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch&logoColor=white)
  ![pytest](https://img.shields.io/badge/-pytest-333333?style=flat&logo=pytest&logoColor=white)
+ ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
    
-#### Infrastructure and Databases
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=F90)
+#### Databases
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+  
+#### Infrastructure
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+
+#### Services
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=F90)
 
 #### Tools
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 ### :mailbox: Contact Me
@@ -39,31 +44,3 @@ Python Developer and Machine Learning engineer. </br>
 <a href="mailto:goooroshchik@gmail.com"><img src="https://img.shields.io/badge/-gooroshchik@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eeeelya&label=visitors&color=135429&style=flat"/> </p>
-
-<!--
-39
-**eeeelya/eeeelya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-40
-​
-41
-Here are some ideas to get you started:
-42
-​
-43
-- 🔭 I’m currently working on ...
-44
-- 🌱 I’m currently learning ...
-45
-- 👯 I’m looking to collaborate on ...
-46
-- 🤔 I’m looking for help with ...
-47
-- 💬 Ask me about ...
-48
-- 📫 How to reach me: ...
-49
-- 😄 Pronouns: ...
-50
-- ⚡ Fun fact: ...
-51
--->
