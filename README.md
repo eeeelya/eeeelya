@@ -1,4 +1,4 @@
-### Hi there, I'm Goroshchik Ilya 👋
+### Hi there, I'm Ilya Goroshchik 👋
 
 ### 👨🏻‍💻 About me
 
