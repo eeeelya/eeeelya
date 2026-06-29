@@ -46,7 +46,4 @@ Python Software engineer with solid experience in building web services. </br>
 ### :mailbox: Contact Me
 
 <a href="https://www.linkedin.com/in/goooroshchik"><img src="https://img.shields.io/badge/-Goroshchik Ilya-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/eeeelyaa"><img src="https://img.shields.io/badge/-@eeeelyaa-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
 <a href="mailto:goooroshchik@gmail.com"><img src="https://img.shields.io/badge/-gooroshchik@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eeeelya&label=visitors&color=135429&style=flat"/> </p>
